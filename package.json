@@ -12,5 +12,8 @@
   "type": "commonjs",
   "devDependencies": {
     "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "caesar-salad": "^2.1.0"
   }
 }
